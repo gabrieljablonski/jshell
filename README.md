@@ -1,7 +1,7 @@
 # jshell
 C implementation of basic shell
 
-Based on Stephen Brennan's [LSH](github.com/brenns10/lsh/)
+Based on Stephen Brennan's [LSH](http://github.com/brenns10/lsh/)
 
 # Added features:
 
