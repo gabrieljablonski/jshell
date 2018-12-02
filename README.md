@@ -1,5 +1,5 @@
 # jshell
-shell c implementation
+C implementation of basic shell
 
 Based on Stephen Brennan's [LSH](github.com/brenns10/lsh/)
 
