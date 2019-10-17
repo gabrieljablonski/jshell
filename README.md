@@ -8,3 +8,5 @@ Based on Stephen Brennan's [LSH](http://github.com/brenns10/lsh/)
 * User, hostname, and CWD showed on prompt
 * Double quotes can be used for arguments containing delimiters
 * Piping
+
+Sally sells c shells by the sea shore.
